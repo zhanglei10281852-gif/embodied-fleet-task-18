@@ -1,0 +1,22 @@
+# Binaries
+/bin/
+*.exe
+
+# Data files
+/data/
+*.db
+*.db-wal
+*.db-shm
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment
+.env
